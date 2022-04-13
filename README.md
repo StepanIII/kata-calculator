@@ -19,3 +19,5 @@ ___
 1. Запустите приложение в IDE.
 2. Введите математическую операцию и нажмите enter. Знвчения вводите через пробел.
 3. Для завершения работы приложения введите end.
+
+![picture](https://github.com/StepanIII/kata-calculator/blob/master/screens/screen_1.png?raw=true)
