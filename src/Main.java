@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Вы запустили калькулятор");
-        System.out.println("Для выполенеия операции введите выражение и нажмите enter. Значения вводите через пробел");
+        System.out.println("Для выполенеия операции введите выражение и нажмите enter.");
+        System.out.println("Значения вводите через пробел.");
         System.out.println("Для завершения работы введите end");
 
        while (true) {
